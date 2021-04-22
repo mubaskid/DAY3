@@ -74,3 +74,6 @@ class Employee:
 
 employee1 = Employee(30, 8)
 print(employee1.addwork())
+
+
+# these are what i've tried out and yet they are still not working
