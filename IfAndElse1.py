@@ -69,3 +69,5 @@ for i in range(1, 99):
 # 	if n == num:
 # 		print("You've become a Mastermind!")
 # 		print("It took you only", ctr, "tries.")
+
+# these are what i have tried on this also
